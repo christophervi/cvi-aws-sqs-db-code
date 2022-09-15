@@ -1,3 +1,8 @@
+/* 
+ * Name: Christopher Vi
+ * Description: Sample code for AWS SDK SQS and H2 DB using Spring Boot
+*/
+
 package com.vi;
 
 import org.springframework.boot.SpringApplication;
